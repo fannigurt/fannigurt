@@ -1,15 +1,16 @@
-# Yuriy Shevchenko
+# 😁 Yuriy Shevchenko
 
-**Ai-native CTO, Lead Fullstack Engineer, 12+ years in tech**
+## **Ai-native CTO, Lead Fullstack Engineer, 10+ years in tech**
 
-Ex-Product Director, Engeniring Manager, chose to go bach hands-on, solo entreprenuer.
-Founding Engineer @ [Paynamic.io](https://paynamic.io) (Fintech, Crypto, Fiat payments)
+Ex-Product Director, Engeniring Manager, Solo Entreprenuer. Always hands-on. 🫱
+
+Lead Fullstack Engineer @ [Paynamic.io](https://paynamic.io) (Coinbase for B2B, Fintech, Crypto, Fiat payments, General Ledger, Money Processing)
 
 Creative, deep, experience and humor. Always several projects running.
 
 --
 
-## What I Build
+## Significant Projects
 
 ### Crypto and fiat payment processing backend and embedded application
 
@@ -23,6 +24,9 @@ Creative, deep, experience and humor. Always several projects running.
 - All the same, from idea to implementation, all tech, all integrations.
 - Full stack development
 
-###
+### ERP for manufacture and online retailer
+
+- Corporative Upwork for task implementation and payments
+
 
 
