@@ -6,11 +6,12 @@ Ex-Product Director, Engeniring Manager, Solo Entreprenuer. Always hands-on. ðŸ«
 
 Lead Fullstack Engineer @ [Paynamic.io](https://paynamic.io) (Coinbase for B2B, Fintech, Crypto, Fiat payments, General Ledger, Money Processing)
 
-Creative, deep, experience and humor. Always several projects running.
+Creative, deep, experience and humor.
+I love diving deep into one big project, understanding it at a molecular level, and being the person responsible for the entire codebase and its features.
 
 --
 
-## Significant Projects
+## Significant Projects and Experience
 
 ### Crypto and fiat payment processing backend and embedded application
 
@@ -24,9 +25,10 @@ Creative, deep, experience and humor. Always several projects running.
 - All the same, from idea to implementation, all tech, all integrations.
 - Full stack development
 
-### ERP for manufacture and online retailer
+### ERP for manufacture and online retailer from USA
 
-- Corporative Upwork for task implementation and payments
-
-
-
+- For zero to one.
+- Corporative Upwork for task implementation and payments.
+- 6+ machine learning services in production
+- Deep AWS integration
+- More than 10 integration with different systems
