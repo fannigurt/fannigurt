@@ -1,6 +1,6 @@
 # 😁 Yuriy Shevchenko
 
-## **Ai-native CTO, Lead Fullstack Engineer, 10+ years in tech**
+## **Ai-native CTO for start-ups | Solution Architect | Lead Fullstack Engineer | 15+ years in tech**
 
 Ex-Product Director, Engeniring Manager, Solo Entreprenuer. Always hands-on. 🫱
 
